@@ -1,2 +1,2 @@
-# finbarrsinv_version-3
-version 3 of integrated management software
+# finbarrsinv
+A School Inventory System for eugene
